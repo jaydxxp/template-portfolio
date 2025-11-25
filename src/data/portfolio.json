@@ -1,0 +1,79 @@
+{
+  "name": "Jaydeep Wagaskar",
+  "title": "Full-Stack Developer | AI & Web Enthusiast",
+
+  "contact": {
+    "email": "jaydeepwaghaskar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jaydeepwagaskar/",
+    "github": "https://github.com/jaydxxp",
+    "portfolio": "https://jaydeep-portfolio-kappa.vercel.app"
+  },
+
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "C", "C++", "SQL"],
+    "frameworks": ["React.js", "Next.js", "Node.js", "Express.js", "Hono", "Tailwind CSS", "Shadcn UI", "Prisma"],
+    "databases": ["PostgreSQL", "MongoDB"],
+    "cloud_devops": ["AWS", "Cloudflare Workers"],
+    "tools": ["Docker", "Git", "Postman", "Figma", "VS Code"],
+    "other": ["JWT", "OAuth", "Generative AI (Gemini)", "RAG"]
+  },
+
+  "experience": [
+    {
+      "role": "Software Developer Intern",
+      "company": "Acrylic Solutions Pvt. Ltd.",
+      "location": "Nashik, Maharashtra",
+      "period": "March 2025 – July 2025",
+      "highlights": [
+        "Developed a government form submission platform for rural users using React, TypeScript, and Node.js.",
+        "Integrated with official government APIs and built MongoDB back-end for efficient data handling.",
+        "Designed accessible UI to improve user adoption and accuracy."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "AI Travel Guide",
+      "description": "AI-powered personalized travel planner.",
+      "stack": ["Next.js", "Node.js", "MongoDB", "Gemini AI"],
+      "features": [
+        "Generated personalized itineraries using Gemini AI.",
+        "Integrated Mapbox, Unsplash, and Weatherbit APIs."
+      ],
+      "github": "https://github.com/jaydxxp/travelio",
+      "live": "https://travelio-psi.vercel.app"
+    },
+    {
+      "name": "Expensio",
+      "description": "AI-powered expense tracker.",
+      "stack": ["MERN", "TailwindCSS"],
+      "features": [
+        "JWT authentication",
+        "Analytics dashboard using Recharts",
+        "CRUD + export CSV/PDF"
+      ],
+      "github": "https://github.com/jaydxxp/expensio",
+      "live": "https://expensio-rust.vercel.app"
+    },
+    {
+      "name": "ConioGPT",
+      "description": "AI social media assistant for content management.",
+      "stack": ["TypeScript", "React", "Node.js"],
+      "features": ["JWT", "OAuth", "Google Sign-In"],
+      "github": "https://github.com/jaydxxp/ConioGPT",
+      "live": "https://conio-gpt.vercel.app"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "branch": "Computer Science and Design",
+      "institution": "MET Institute of Technology",
+      "location": "Nashik, Maharashtra",
+      "period": "Sept 2023 – Present",
+      "cgpa": "7.0 / 10"
+    }
+  ]
+}

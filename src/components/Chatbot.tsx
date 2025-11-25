@@ -82,6 +82,7 @@ export default function PortfolioAssistant() {
       /\[([^\]]+)\]\(([^)]+)\)/g,
       '<a href="$2">$1</a>'
     );
+    console.log(processedContent)
 
     const combinedRegex = /<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>(.*?)<\/a>|\*\*(.+?)\*\*|(?<!\*)\*(?!\*)([^*]+?)(?<!\*)\*(?!\*)/gi;
     let lastIndex = 0;
